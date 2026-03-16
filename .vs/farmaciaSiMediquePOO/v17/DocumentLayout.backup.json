@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|c:\\users\\caio murilo vieira\\desktop\\farmaciasimedique\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\controllers\\ctrlmedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:controllers\\ctrlmedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVisMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMenu.cs [Design]",
+              "RelativeToolTip": "..\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:46:13.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVisMedicamentos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs [Design]",
+              "RelativeToolTip": "Views\\frmVisMedicamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:06:58.941Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmVisMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMenu.cs [Design]",
+              "RelativeToolTip": "..\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:23:19.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVisVisualizacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisVisualizacao.cs [Design]",
+              "RelativeToolTip": "..\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisVisualizacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:31:13.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVisMedicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs",
+              "RelativeToolTip": "Views\\frmVisMedicamentos.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:38:08.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVisVisualizacao.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisVisualizacao.cs",
+              "RelativeToolTip": "Views\\frmVisVisualizacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:45:00.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmVisVisualizacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisVisualizacao.cs [Design]",
+              "RelativeToolTip": "..\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisVisualizacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:43:08.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVisMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMenu.cs",
+              "RelativeToolTip": "Views\\frmVisMenu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T21:17:53.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVisVisualizacao.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisVisualizacao.cs",
+              "RelativeToolTip": "Views\\frmVisVisualizacao.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:01:09.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmVisMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMenu.cs",
+              "RelativeToolTip": "Views\\frmVisMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:57:51.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:54:26.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmVisMedicamentos.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs",
+              "RelativeToolTip": "Views\\frmVisMedicamentos.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T21:01:17.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmVisMedicamentos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMedicamentos.cs [Design]",
+              "RelativeToolTip": "..\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMedicamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:49:10.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ctrlMedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Controllers\\ctrlMedicamentoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ctrlMedicamentoController.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Controllers\\ctrlMedicamentoController.cs",
+              "RelativeToolTip": "Controllers\\ctrlMedicamentoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:14:57.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Models\\Medicamento.cs",
+              "RelativeDocumentMoniker": "Models\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Models\\Medicamento.cs",
+              "RelativeToolTip": "Models\\Medicamento.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:11:19.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:10:53.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Fabricante.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Models\\Fabricante.cs",
+              "RelativeDocumentMoniker": "Models\\Fabricante.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaSiMedique\\Models\\Fabricante.cs",
+              "RelativeToolTip": "Models\\Fabricante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T15:10:36.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

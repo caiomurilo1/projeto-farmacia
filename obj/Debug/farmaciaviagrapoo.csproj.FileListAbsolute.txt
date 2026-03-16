@@ -1,0 +1,16 @@
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\bin\Debug\farmaciaviagrapoo.exe.config
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\bin\Debug\farmaciaviagrapoo.exe
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\bin\Debug\farmaciaviagrapoo.pdb
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.Properties.Resources.resources
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.Views.frmVisMenu.resources
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.csproj.GenerateResource.cache
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.exe
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.pdb
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.Views.frmVisMedicamentos.resources
+C:\Users\PC GAMER\Programção\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.Views.frmVisVisualizacao.resources
+C:\Users\Caio Murilo Vieira\Desktop\farmaciaviagrapoo\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.csproj.AssemblyReference.cache
+C:\Users\Caio Murilo Vieira\Desktop\farmaciaviagrapoo\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.exe.config
+C:\Users\Caio Murilo Vieira\Desktop\farmaciaviagrapoo\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.exe
+C:\Users\Caio Murilo Vieira\Desktop\farmaciaviagrapoo\farmaciaviagrapoo\obj\Debug\farmaciaviagrapoo.pdb
