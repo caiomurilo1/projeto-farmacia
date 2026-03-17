@@ -24,3 +24,6 @@ C:\Users\Caio Murilo Vieira\Desktop\farmaciaSiMedique\obj\Debug\farmaciaSiMediqu
 C:\Users\Caio Murilo Vieira\Desktop\farmaciaSiMedique\obj\Debug\farmaciaSiMediquePOO.csproj.CoreCompileInputs.cache
 C:\Users\Caio Murilo Vieira\Desktop\farmaciaSiMedique\obj\Debug\farmaciaviagrapoo.exe
 C:\Users\Caio Murilo Vieira\Desktop\farmaciaSiMedique\obj\Debug\farmaciaviagrapoo.pdb
+C:\GitHub\projeto-farmacia\obj\Debug\farmaciaSiMediquePOO.csproj.AssemblyReference.cache
+C:\GitHub\projeto-farmacia\obj\Debug\farmaciaviagrapoo.exe
+C:\GitHub\projeto-farmacia\obj\Debug\farmaciaviagrapoo.pdb

@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\projeto-farmacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|c:\\github\\projeto-farmacia\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvisvisualizacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|C:\\GitHub\\projeto-farmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaSiMediquePOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:views\\frmvismedicamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\controllers\\ctrlmedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:controllers\\ctrlmedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:models\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|C:\\GitHub\\projeto-farmacia\\models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CDB938-E142-46DD-8BF4-0389F36215B5}|farmaciaviagrapoo.csproj|solutionrelative:models\\fabricante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVisMenu.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmVisMedicamentos.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs",
+              "RelativeToolTip": "Views\\frmVisMedicamentos.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:44.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVisVisualizacao.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs",
+              "RelativeToolTip": "Views\\frmVisVisualizacao.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVisMedicamentos.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs [Design]",
+              "RelativeToolTip": "Views\\frmVisMedicamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:44.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmVisMenu.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs [Design]",
+              "RelativeToolTip": "Views\\frmVisMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVisMenu.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs",
+              "RelativeToolTip": "Views\\frmVisMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVisVisualizacao.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs [Design]",
+              "RelativeToolTip": "Views\\frmVisVisualizacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:44.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmVisVisualizacao.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisVisualizacao.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisVisualizacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmVisVisualizacao.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisVisualizacao.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisVisualizacao.cs",
+              "RelativeToolTip": "Views\\frmVisVisualizacao.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmVisMenu.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMenu.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMenu.cs",
+              "RelativeToolTip": "Views\\frmVisMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmVisMedicamentos.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs",
+              "RelativeToolTip": "Views\\frmVisMedicamentos.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmVisMedicamentos.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Views\\frmVisMedicamentos.cs",
+              "RelativeDocumentMoniker": "Views\\frmVisMedicamentos.cs",
+              "ToolTip": "C:\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMedicamentos.cs [Design]",
+              "RelativeToolTip": "..\\..\\Users\\Caio Murilo Vieira\\Desktop\\farmaciaviagrapoo\\farmaciaviagrapoo\\Views\\frmVisMedicamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ctrlMedicamentoController.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Controllers\\ctrlMedicamentoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ctrlMedicamentoController.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Controllers\\ctrlMedicamentoController.cs",
+              "RelativeToolTip": "Controllers\\ctrlMedicamentoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Models\\Medicamento.cs",
+              "RelativeDocumentMoniker": "Models\\Medicamento.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Models\\Medicamento.cs",
+              "RelativeToolTip": "Models\\Medicamento.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fabricante.cs",
+              "DocumentMoniker": "C:\\GitHub\\projeto-farmacia\\Models\\Fabricante.cs",
+              "RelativeDocumentMoniker": "Models\\Fabricante.cs",
+              "ToolTip": "C:\\GitHub\\projeto-farmacia\\Models\\Fabricante.cs",
+              "RelativeToolTip": "Models\\Fabricante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:15:46.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
